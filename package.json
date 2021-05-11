@@ -33,6 +33,6 @@
   },
   "devDependencies": {
     "browser-sync": "^2.24.x",
-    "nodemon": "^1.18.x"
+    "nodemon": "^2.0.x"
   }
 }
