@@ -24,7 +24,7 @@
   "dependencies": {
     "handlebars": "^4.0.x",
     "metalsmith": "^2.1.x",
-    "metalsmith-layouts": "^1.4.x",
+    "metalsmith-layouts": "^2.3.x",
     "metalsmith-markdown": "^1.3.x",
     "metalsmith-metallic": "^2.0.x",
     "metalsmith-permalinks": "^2.2.x",
