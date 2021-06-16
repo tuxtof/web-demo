@@ -29,7 +29,7 @@
     "metalsmith-metallic": "^2.0.x",
     "metalsmith-permalinks": "^2.2.x",
     "metalsmith-watch": "^1.0.3",
-    "sass": "^1.34.x"
+    "sass": "^1.35.x"
   },
   "devDependencies": {
     "browser-sync": "^2.24.x",
