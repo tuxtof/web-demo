@@ -32,7 +32,7 @@
     "sass": "^1.35.x"
   },
   "devDependencies": {
-    "browser-sync": "^2.24.x",
+    "browser-sync": "^2.27.x",
     "nodemon": "^2.0.x"
   }
 }
